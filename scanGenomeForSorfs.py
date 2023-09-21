@@ -1,5 +1,5 @@
 
-from  genomeScan import *
+from  genomeScan_lib import *
 
 
 ########################################################################
